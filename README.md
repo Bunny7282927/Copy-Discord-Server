@@ -13,3 +13,8 @@ Now Go to the server you want to copy
 And enter "?copyserver"
 Now see your server list
 Done!
+# Note
+If your discord account gets banned for being a selfbot then its not my responsibility use this at your own risk.
+
+ 
+
